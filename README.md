@@ -39,19 +39,10 @@
 
 ---
 
-## 📚 Projects (More Coming Soon!)
-
-- 🔌 **Smart Home Automation (IoT)**
-- 🌡️ **Environmental Monitoring System**
-- 📟 **Morse Code Encoder/Decoder**
-- 🧪 **Sensor-based Mini Projects**
-
----
-
 ## 📫 Contact Me
 
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** your-linkedin-url  
+📧 **Email:** varniya2007@gmail.com
+🔗 **LinkedIn:** [your-linkedin-url  ](https://www.linkedin.com/in/varniya-bhatnagar-1ab361327/)
 🐙 **GitHub:** github.com/varniyabhatnagar
 
 ---
