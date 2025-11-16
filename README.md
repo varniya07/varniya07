@@ -1,55 +1,59 @@
-# 👋 Hi, I'm Varniya Bhatnagar
+<h1 align="center">Hi there, I'm Varniya! 👋</h1>
 
-🎓 **2nd Year ECE Undergraduate Student**  
-🏫 **Panjab University**  
-📡 **IoT Enthusiast**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varniyabhatnagar&label=Profile%20Views&color=blue&style=flat" alt="views" />
+</p>
 
----
+## 🌟 About Me
 
-## 🚀 About Me  
-I am an aspiring Electronics and Communication Engineer with a strong interest in **Internet of Things (IoT)**, embedded systems, and automation.  
-I love exploring how hardware and software combine to solve real-world problems.
-
----
-
-## 🔧 Skills & Technologies  
-
-### 🖥 Programming & Technical Skills
-- **C Programming**
-- **Morse Code**
-- **IoT Development**
-- **LabVIEW**
-
-### 📟 Tools & Platforms
-- Arduino  
-- ESP32 / ESP8266  
-- Sensors & Actuators  
-- NI LabVIEW  
-- Basic Circuit Design  
+- 🎓 **2nd Year ECE Undergraduate Student** at **Panjab University**.
+- 🤖 **IoT Enthusiast** with hands-on experience in sensors, microcontrollers & automation.
+- 💻 Comfortable with **C programming**, **LabVIEW**, and **embedded logic**.
+- 🔤 Can encode and decode **Morse Code**.
+- 🌱 Currently learning **advanced IoT systems**, embedded C & cloud integration.
 
 ---
 
-## 🌱 What I'm Currently Learning
-- Advanced IoT Systems  
-- Cloud for IoT (AWS / Azure IoT Hub)  
-- Embedded C  
-- Data acquisition using LabVIEW  
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,labview,git,vscode" />
+</p>
 
 ---
 
-## 📚 Projects (Coming Soon!)
-- Smart Home Automation System  
-- IoT-Based Environmental Monitoring  
-- Morse Code Encoder/Decoder  
-- Sensor-based Mini Projects  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varniyabhatnagar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varniyabhatnagar&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varniyabhatnagar&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 📚 Projects (More Coming Soon!)
+
+- 🔌 **Smart Home Automation (IoT)**
+- 🌡️ **Environmental Monitoring System**
+- 📟 **Morse Code Encoder/Decoder**
+- 🧪 **Sensor-based Mini Projects**
 
 ---
 
 ## 📫 Contact Me
+
 📧 **Email:** your-email@example.com  
 🔗 **LinkedIn:** your-linkedin-url  
-🐙 **GitHub:** github.com/yourusername  
+🐙 **GitHub:** github.com/varniyabhatnagar
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me.*  
+⭐ *Thanks for visiting my profile!*
