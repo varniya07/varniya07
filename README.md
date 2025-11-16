@@ -24,10 +24,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varniyabhatnagar&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=varniyabhatnagar&theme=tokyonight" height="160" />
-</p>
+</p> -->
+![Varniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varniya07&show_icons=true&theme=radical)
 
 ---
 
